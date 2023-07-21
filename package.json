@@ -1,7 +1,7 @@
 {
   "name": "swe-portfolio",
   "version": "0.1.0",
-  "homepage": "https://wazerbwsed22.github.io/Testing/",
+  "homepage": "http://wazerbwsed22.github.io/my-project",
   "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
